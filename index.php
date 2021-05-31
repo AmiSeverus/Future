@@ -74,10 +74,7 @@
             </div>
         </div>
     </div>
-    <div class='end'>
-        
-    </div>
-    <!--<div class='footer'>
+    <div class='footer'>
         <div class='footContainer'>
             <img src="./img/Logo.png" alt="logo">
             <div class='footContainer_info'>
@@ -91,6 +88,6 @@
                 </div>
             </div>
         </div>
-    </div>-->
+    </div>
 </body>
 </html>
