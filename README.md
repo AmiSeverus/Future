@@ -1,1 +1,1 @@
-В root создать папку test/future/ и поместить туда index.php
+В root создать папки test/future/ и поместить туда index.php
